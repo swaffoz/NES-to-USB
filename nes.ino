@@ -1,14 +1,6 @@
 /*
-Title: NES controller adapater using Teensy.
-Original Publishing Date: 10-03-2011
-Original Author: Ali Raheem
-*/
-
-/*
-This code was stolen and slightly modified
-by Zane Swafford in May of 2012. All credit
-should rightfully go to Ali Raheem and the 
-post on his website at:
+Modified by Zane Swafford in May of 2012.
+Originally written by Ali Raheem at:
 https://letshackstuff.com/?s=blog&m=permalink&x=easy-hacky-nes-controller-adapter-with-teensy
 */
 
