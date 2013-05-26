@@ -1,0 +1,4 @@
+This file is to be loaded onto a Teensy (c) development board (or other arduino/clone board)
+to convert an original Nintendo NES controller to modern USB ports. 
+See guide at http://zaneswafford.com/nes-to-usb.pdf for wiring and setup guide. 
+Feel free to email me at zane@zaneswafford.com for further questions.
